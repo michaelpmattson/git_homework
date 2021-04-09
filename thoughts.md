@@ -1,0 +1,4 @@
+# Takeaways from Sessions 1 and 2
+
+1. Planning ahead in detail can remove the burden of time-management in the moment. Wrenches can always be thrown into plans, but it's still imperative to know what you're doing before you do it.
+2. Repetition is important, and we're going to do a lot of it.
