@@ -7,3 +7,7 @@
 
 1. Making a calendar and holding myself accountable to using it.
 2. Using the convention of "If applied, this commit will..."
+
+# Shoutout
+
+Shoutout to my mom. I've been talking to her a lot recently about the decision to go back to school.
