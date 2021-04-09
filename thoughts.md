@@ -2,3 +2,8 @@
 
 1. Planning ahead in detail can remove the burden of time-management in the moment. Wrenches can always be thrown into plans, but it's still imperative to know what you're doing before you do it.
 2. Repetition is important, and we're going to do a lot of it.
+
+# Strategies I'm committed to trying
+
+1. Making a calendar and holding myself accountable to using it.
+2. Using the convention of "If applied, this commit will..."
