@@ -11,3 +11,7 @@
 # Shoutout
 
 Shoutout to my mom. I've been talking to her a lot recently about the decision to go back to school.
+
+Here is a thought.
+
+Thinkin.
